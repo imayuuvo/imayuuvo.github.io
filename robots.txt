@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imayuuvo.github.io/YRJ/sitemap_index.txt
+Sitemap: https://imayuuvo.github.io/cQm/sitemap_index.txt
+Sitemap: https://imayuuvo.github.io/svP/sitemap_index.txt
+Sitemap: https://imayuuvo.github.io/yST/sitemap_index.txt
